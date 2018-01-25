@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+--><root>
+
+<genericDate>
+<id>1</id>
+<name>Adicionar</name>
+<date>2018-01-25</date>
+</genericDate>
+<genericDate>
+<id>2</id>
+<name>Pedroca</name>
+<date>2018-01-25</date>
+</genericDate>
+<genericDate>
+<id>3</id>
+<name>Sabrina</name>
+<date>2018-01-25</date>
+</genericDate>
+</root>

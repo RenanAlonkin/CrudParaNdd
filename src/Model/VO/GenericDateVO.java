@@ -13,6 +13,8 @@ import java.sql.Date;
  */
 public class GenericDateVO {
 
+    public static int ACTUAL_ID = 1;
+    
     private int id;
     private String name;
     private Date date;
@@ -29,8 +31,11 @@ public class GenericDateVO {
     public GenericDateVO(String name, Date date) {
         this.name = name;
         this.date = date;
+        this.id = ACTUAL_ID++;
     }
 
+    
+    
     public int getId() {
         return id;
     }
